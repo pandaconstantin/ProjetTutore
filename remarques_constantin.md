@@ -6,7 +6,7 @@ Au lieu d'afficher les informations sur les utilisateurs, il faudrait l'utiliser
 
 ## Sources : 
 
-1. Le type : il faudrait faire une liste de valeur au lieu de laisser la saisie libre par l'utilisateur
+Le type : il faudrait faire une liste de valeur au lieu de laisser la saisie libre par l'utilisateur
 
 ## Suggestion generale: 
  
