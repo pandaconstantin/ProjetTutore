@@ -8,6 +8,6 @@ Au lieu d'afficher les informations sur les utilisateurs, il faudrait l'utiliser
 
 Le type : il faudrait faire une liste de valeur au lieu de laisser la saisie libre par l'utilisateur
 
-## Suggestion generale: 
+## Suggestion generale : 
  
 Ramener les elements  'Statistiques' , 'Niveau de pollution'  au niveau du tableau de bord (transformer  le module menu en tableau de bord)
